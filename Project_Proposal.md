@@ -1,10 +1,6 @@
 ---
-title: "Proposal for Capstone Project"
-output:
-  html_document:
-    keep_md: true
-    df_print: paged
----
+Proposal for Capstone Project
+--- 
 
 **Problem**: The NBA is a sports league on the rise. It has a growing fanbase overseas (a professional league is currently being established in Africa with the help of the NBA), and since it lacks the stigma of CTE, it appears poised to steal some of the market share away from the NFL. There are a number of awards given out at the end of each season for various accomplishments, including the most improved player award (MIP). This award is given to the player who has shown the most progress during the regular season. Typically this means players that greatly increased their counting stats compared to their previous seasons in addition to overall player development. The proposal is to use data from the introduction of this award (1986) to the end of the last season (2018) to develop a machine learning algorithm that accurately predicts a player's probabilty of winning the award.
 
